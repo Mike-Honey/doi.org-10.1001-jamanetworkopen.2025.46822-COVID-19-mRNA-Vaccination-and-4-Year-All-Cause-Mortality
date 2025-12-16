@@ -13,15 +13,15 @@ The final tool used is [Power BI](https://powerbi.microsoft.com/). This is an in
 
 ### % Incidence Change
 
-This page presents the same data as the original paper, but focussed on a derived % Incidence Change, which is also presented as a databar. For a less-technical audience, I expect this metric is easier for them to consume and comprehend than Hazard ratios. 
+This page presents the same data as the original paper, but focussed on a derived % Incidence Change (unvaccinated vs vaccinated), which is also presented as a databar. For a less-technical audience, I expect this metric is easier for them to consume and comprehend than Hazard ratios. It shows how much more likely the unvaccinated were to die of any particular cause.
 
-Interactive "slicer" controls at the right of the page allows the user to restrict the rows of ICD-10 data shown, to focus on an area of interest.
+An interactive "slicer" control at the right of the page allows the user to restrict the rows of ICD-10 data shown, to focus on an area of interest.
 
 The table can be instantly resorted by clicking any column header.
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1016-j.ijid.2025.108287/raw/main/pct-of-change-from-baseline-page.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/pct-of-incidence-change.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
 
 ### Reproduction - Table 2
 
@@ -33,7 +33,7 @@ This page follows the style of the original table. The interactive features allo
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1016-j.ijid.2025.108287/raw/main/repro-page.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/repro-table-2.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
 
 
 
