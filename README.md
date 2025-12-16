@@ -27,7 +27,7 @@ The table can be instantly resorted by clicking any column header.
 
 #### Tabe 2
 
-![Figure 3](https://github.com/Mike-Honey/doi.org-10.1016-j.ijid.2025.108287/raw/main/Figure%203.jpg)
+![Table 2](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/Table%202%20Comparison%20of%20Causes%20of%20Death.png)
 
 This page follows the style of the original table. The interactive features allow filtering and re-sorting of the data.
 
