@@ -49,6 +49,10 @@ This page follows the style of the original table. The interactive features allo
 ![Table 2](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/Table%202%20Comparison%20of%20Causes%20of%20Death.png)
 
 
+### Methods
+
+I used [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) to run OCR on the image for Table 2, then copied the results into Excel for cleaning.The results are a cell for each row, with variable spaces between Table 2's columns. I then used Power BI's Power Query Editor to integrate that and split it into tidy columns.
+
 ## 🤝 Support
 
 Contributions, issues, feature requests and sponsorship are all welcome!
