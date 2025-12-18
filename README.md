@@ -23,11 +23,19 @@ The table can be instantly resorted by clicking any column header.
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/pct-of-incidence-change.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=ed536217f33cd26c64ae)
 
+
+### Hazard ratios
+
+This page presents the Hazard ratios as kind of forest chart. The horizontal bars show the range of the 95% Confidence Intervals, while the dark dot on each bar shows the Median Hazard ratio for that ICD. 
+
+An interactive "slicer" control at the right of the page allows the user to restrict the rows of ICD-10 data shown, to focus on an area of interest.  The user can also switch from Hazard ratio - Weighted to Crude.
+
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=d2be287e02cc7ce944f0)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/hazard-ratio.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=d2be287e02cc7ce944f0)
+
+
 ### Reproduction - Table 2
-
-#### Tabe 2
-
-![Table 2](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/Table%202%20Comparison%20of%20Causes%20of%20Death.png)
 
 This page follows the style of the original table. The interactive features allow filtering and re-sorting of the data.
 
@@ -35,6 +43,10 @@ This page follows the style of the original table. The interactive features allo
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/repro-table-2.png)](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=465e1d4f84036a256c0c)
 
+
+#### Original Table 2
+
+![Table 2](https://github.com/Mike-Honey/doi.org-10.1001-jamanetworkopen.2025.46822-COVID-19-mRNA-Vaccination-and-4-Year-All-Cause-Mortality/raw/main/Table%202%20Comparison%20of%20Causes%20of%20Death.png)
 
 
 ## 🤝 Support
