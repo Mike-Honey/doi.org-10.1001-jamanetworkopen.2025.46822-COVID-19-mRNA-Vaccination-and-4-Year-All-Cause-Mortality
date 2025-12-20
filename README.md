@@ -26,9 +26,11 @@ The table can be instantly resorted by clicking any column header.
 
 ### Hazard ratios
 
-This page presents the Hazard ratios as kind of forest chart. The horizontal bars show the range of the 95% Confidence Intervals, while the dark dot on each bar shows the Median Hazard ratio for that ICD. 
+This page presents the Hazard ratios as a horizontal box plot. The horizontal bars show the 95% Confidence Intervals (wider = less confidence), while the dark bars show the Median Hazard ratio. 
 
 An interactive "slicer" control at the right of the page allows the user to restrict the rows of ICD-10 data shown, to focus on an area of interest.  The user can also switch from Hazard ratio - Weighted to Crude.
+
+In the full version of Power BI or Power BI Desktop, the end user can sort these by any metrics. Unfortunately, that feature is suppressed in this "Publish to Web" scenario.
 
 [Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDJmYWI3ZWEtYjJhNy00NzllLTgyNDQtOTlhZjMxZGZkNzlkIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D&pageName=d2be287e02cc7ce944f0)
 
